@@ -1,0 +1,29 @@
+.font_head {
+    font: "WorkSans";
+    width: 1920px;
+    line-height: 1.6;
+    font-size: 15px;
+    color: blue;
+}
+
+.font_middle {
+    font: "WorkSans";
+    width: 1920px;
+    line-height: 0.9;
+    font-size: 72px;
+}
+
+
+
+  .container{
+    width: 100%;
+    max-width: 1200px;
+    margin-left: 100px;
+  }
+
+  @font-face {
+    font-family: "WorkSans"; 
+    src: url("C:\Users\user\Desktop\бауманка\front\font\WorkSans-Black.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+  }
